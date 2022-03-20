@@ -29,5 +29,6 @@
     a person to make a good judgement on their decision to invest in a company.  However just using our data only two tickers appear worthy for 
     investment. These tickers are "ENPH and RUN".  ENPH had the beter over all return with 129.5% in 2017 and 81.9% in 2018. RUN had a simular 
     2018 return of 84.0% but a lower return in 2017 of 5.5%
+ ##
  
  
