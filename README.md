@@ -9,6 +9,11 @@ with in the code. We had to use visual and numeric formatting along with conditi
    positive with a green cell.  All ticker's that had a negative return had a red cell, and all tickers that didn't have a return (value of 0)
    was left clear. All but one ticker had a positive return in 2017.  The one ticker had a negative value in 2017. So all but the one ticker
    appeared to be posible options for investment.
+ ## Results of Outcomes Based on 2018
+   The Static Formatting created the table for all tickers data of 2018.  The Conditional Formatting highlighted all ticker's return that was 
+   positive with a green cell.  All ticker's that had a negative return had a red cell, and all tickers that didn't have a return (value of 0)
+   was left clear. Only tow tickers had a positive return in 2018.  All other tickers had a negative value in 2018. So only the two tickers
+   appeared to be posible options for investment. 
  ## Over All Results
   Both years (2017 and 2018) evaluations ran for the same amount of time of 0.0546875 seconds.  Running the evaluation for only one ticker versus
     12 tickers was the time of 0.2578125 seconds.  The one ticker evaluation ran so much longer than doing all tickers for the year at the same 
